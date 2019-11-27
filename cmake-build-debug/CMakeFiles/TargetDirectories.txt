@@ -1,0 +1,3 @@
+/Users/avgar/Documents/GitHub/TrabajoIntegradorPEL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/avgar/Documents/GitHub/TrabajoIntegradorPEL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/avgar/Documents/GitHub/TrabajoIntegradorPEL/cmake-build-debug/CMakeFiles/TrabajoIntegradorPEL.dir
