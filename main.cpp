@@ -8,7 +8,7 @@ void menuRectas(){
     cout<<"[ 1 ] En el plano\n";
     cout<<"[ 2 ] En el espacio\n";
     cout<<"[ 0 ] Volver atras\n";
-    cout<<"Que desea hacer?: ";
+    cout<<"¿Que desea hacer?: ";
     cin>>op;
     do {
         switch(op){
@@ -31,7 +31,7 @@ void menuPlanos(){
     cout<<"[ 1 ] Dos planos\n";
     cout<<"[ 2 ] Tres planos\n";
     cout<<"[ 0 ] Volver atras\n";
-    cout<<"Que desea hacer?: ";
+    cout<<"¿Que desea hacer?: ";
     cin>>op;
     do {
         switch(op){

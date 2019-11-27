@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/TrabajoIntegradorPEL.dir/main.cpp.o"
-  "TrabajoIntegradorPEL"
+  "CMakeFiles/TrabajoIntegradorPEL.dir/main.cpp.obj"
+  "TrabajoIntegradorPEL.exe"
+  "TrabajoIntegradorPEL.exe.manifest"
   "TrabajoIntegradorPEL.pdb"
+  "libTrabajoIntegradorPEL.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
